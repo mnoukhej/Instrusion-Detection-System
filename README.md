@@ -6,7 +6,19 @@
 ## Folder Structure
 
 <!-- TREE_START -->
-
+```
+├── Instrusion Detection System.ipynb
+├── NSL_KDD_Test.csv
+├── NSL_KDD_Train.csv
+├── NaiveB.ipynb
+├── README.md
+├── Untitled.ipynb
+├── Untitled1.ipynb
+├── requirements.txt
+├── setup.bat
+├── svm.ipynb
+└── update_tree.py
+```
 <!-- TREE_END -->
 
 
